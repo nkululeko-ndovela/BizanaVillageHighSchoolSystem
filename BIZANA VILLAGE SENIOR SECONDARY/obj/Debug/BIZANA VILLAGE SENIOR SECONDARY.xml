@@ -1,0 +1,111 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+BIZANA VILLAGE SENIOR SECONDARY
+</name>
+</assembly>
+<members>
+<member name="T:BIZANA_VILLAGE_SENIOR_SECONDARY.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:BIZANA_VILLAGE_SENIOR_SECONDARY.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:BIZANA_VILLAGE_SENIOR_SECONDARY.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:BIZANA_VILLAGE_SENIOR_SECONDARY.My.Resources.Resources._2014_EXAM">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BIZANA_VILLAGE_SENIOR_SECONDARY.My.Resources.Resources._2014_GIFT">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BIZANA_VILLAGE_SENIOR_SECONDARY.My.Resources.Resources._2014_QUIRE">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BIZANA_VILLAGE_SENIOR_SECONDARY.My.Resources.Resources.Actions_help_about_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BIZANA_VILLAGE_SENIOR_SECONDARY.My.Resources.Resources.download__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BIZANA_VILLAGE_SENIOR_SECONDARY.My.Resources.Resources.download__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BIZANA_VILLAGE_SENIOR_SECONDARY.My.Resources.Resources.download__3_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BIZANA_VILLAGE_SENIOR_SECONDARY.My.Resources.Resources.downloadV">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BIZANA_VILLAGE_SENIOR_SECONDARY.My.Resources.Resources.gallery">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BIZANA_VILLAGE_SENIOR_SECONDARY.My.Resources.Resources.hqdefault">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BIZANA_VILLAGE_SENIOR_SECONDARY.My.Resources.Resources.hqdefault__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BIZANA_VILLAGE_SENIOR_SECONDARY.My.Resources.Resources.images">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BIZANA_VILLAGE_SENIOR_SECONDARY.My.Resources.Resources.images__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BIZANA_VILLAGE_SENIOR_SECONDARY.My.Resources.Resources.IMG_20191010_WA0015">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BIZANA_VILLAGE_SENIOR_SECONDARY.My.Resources.Resources.logon_icon_0">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BIZANA_VILLAGE_SENIOR_SECONDARY.My.Resources.Resources.SCHOOL15_512">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BIZANA_VILLAGE_SENIOR_SECONDARY.My.Resources.Resources.student_icon_png_15">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
